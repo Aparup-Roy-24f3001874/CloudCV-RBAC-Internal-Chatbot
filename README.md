@@ -41,12 +41,13 @@ Unauthorized data is never retrieved or shown.
 
 ## 🧠 Tech Stack
 
-- LLM: Llama 3.1 (via Groq)
+- LLM: OpenAI/gpt-oss-120b (via Groq)
 - Backend: FastAPI
 - UI: Streamlit
 - Vector Store: FAISS
 - Embeddings: all-MiniLM-L6-v2
 - Auth: JWT + SQLite
 - Deployment: Docker on Hugging Face Spaces
+
 
 ---
